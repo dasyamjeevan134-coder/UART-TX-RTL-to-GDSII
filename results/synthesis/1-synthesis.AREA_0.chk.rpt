@@ -1,0 +1,6 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module uart_tx...
+Warning: Wire uart_tx.\tx is used but has no driver.
+Warning: Wire uart_tx.\busy is used but has no driver.
+Found and reported 2 problems.

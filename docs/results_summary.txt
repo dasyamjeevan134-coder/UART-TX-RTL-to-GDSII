@@ -1,0 +1,53 @@
+UART TX RTL-TO-GDSII PROJECT — RESULTS SUMMARY
+
+DESIGN
+Design: uart_tx
+Technology: Sky130
+Flow: OpenLane
+Architecture: UART Transmitter
+
+VERIFICATION
+RTL simulation: Completed
+VCD waveform: Generated
+GTKWave verification: Completed
+
+PHYSICAL DESIGN
+Synthesis: Completed
+Floorplanning: Completed
+Placement: Completed
+Routing: Completed
+Signoff: Completed
+
+STA
+MAX CORNER:
+TNS: 0.00
+WNS: 0.00
+Worst setup slack: 3.56 ns
+Worst hold slack: 0.10 ns
+
+MIN CORNER:
+TNS: 0.00
+WNS: 0.00
+Worst setup slack: 3.49 ns
+Worst hold slack: 0.10 ns
+
+NOMINAL CORNER:
+TNS: 0.00
+WNS: 0.00
+Worst setup slack: 3.52 ns
+Worst hold slack: 0.10 ns
+
+SIGNOFF
+GDSII: Generated
+LEF: Generated
+SPICE: Generated
+SDF: Generated
+STA reports: Available
+DRC report: Available
+LVS report: Available
+Antenna report: Available
+IR-drop reports: Available
+
+NOTE
+The detailed corner-specific timing paths are preserved in:
+results/sta/STA_report_all_corners.rpt
