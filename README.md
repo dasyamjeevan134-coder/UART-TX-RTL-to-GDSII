@@ -65,3 +65,18 @@ DRC / LVS / Antenna Checks
    |
    v
 GDSII
+
+## Project Screenshots
+
+### RTL Design
+![UART RTL](screenshots/uart_rtl.png)
+
+### RTL Simulation
+![UART Simulation](screenshots/uart_simulation.png)
+
+### GTKWave Waveform
+![UART Waveform](screenshots/uart_waveforms.png)
+
+### Final GDSII Layout
+![UART Layout](screenshots/uart_layouts.png)
+
