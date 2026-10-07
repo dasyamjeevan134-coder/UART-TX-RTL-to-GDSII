@@ -1,0 +1,36 @@
+UART TRANSMITTER — FINAL RESULTS
+
+Technology: Sky130
+Flow: OpenLane
+Design: 8-bit UART Transmitter
+
+PHYSICAL DESIGN
+Standard cells: 182
+Total cell area: 1923.094400 um^2
+
+TIMING
+TNS: 0.00
+WNS: 0.00
+Worst setup slack: 6.63
+Worst hold slack: 0.31
+
+POWER
+Total power: 5.00e-04 W
+Internal power: 3.57e-04 W
+Switching power: 1.43e-04 W
+Leakage power: 1.64e-09 W
+
+SIGNOFF
+DRC violations: 0
+LVS errors: 0
+XOR differences: 0
+Antenna violations: 0
+Final GDSII: Generated successfully
+
+FINAL FILES
+uart_tx.gds
+uart_tx.lef
+uart_tx.spice
+uart_tx.sdf
+uart_tx.mag
+uart_tx.klayout.gds
